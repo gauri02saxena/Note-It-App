@@ -1,5 +1,7 @@
 # Note It - A React Notes App
-![Screenshot (216)](https://github.com/gauri02saxena/Note-It-App/assets/101066452/9250be19-6099-4388-851c-bafe6370b88d)
+
+<img width="960" alt="Screenshot 2023-08-20 220636" src="https://github.com/gauri02saxena/Note-It-App/assets/101066452/1f862cf2-6097-4fb8-b913-64d06cb5ba2d">
+
 ![Screenshot (215)](https://github.com/gauri02saxena/Note-It-App/assets/101066452/d920ab1f-7063-457a-9102-b81f34720352)
 
 Note It is a simple and intuitive notes app built using React and Material-UI. With Note It, you can easily create, edit, and manage your notes in a clean and organized interface. This app is designed to streamline your note-taking process and keep your thoughts and ideas at your fingertips.
